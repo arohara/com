@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aroharadigital.in
+Token: 1d1b399180d7a419d907a42d6fefd939a856d94d77e3542578d5c0eecd9f81f2
